@@ -21,6 +21,7 @@
     pergunta: Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias.
     resposta:
       php: respostas/php/exercicio04.php
+      python: respostas/python/exercicio04.py
 
 - exercicio05:
     pergunta: Escreva um algoritmo para ler o número total de eleitores de um município, o número de votos brancos, nulos e válidos. Calcular e escrever o percentual que cada um representa em relação ao total de eleitores.
@@ -47,7 +48,6 @@
     resposta:
       php: php
 
-- exercicio02:
-    pergunta: Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).15) Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).
+- exercicio10: Ler um valor e escrever se é positivo ou negativo (considere o valor zero como positivo).
     resposta:
       php: php
